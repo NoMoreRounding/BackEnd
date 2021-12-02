@@ -1,8 +1,9 @@
 # README
 
-Due to security issues, application.yml which has vulnerable information of DB and SMTP is eliminated in this commit. Thus, this program doesn't work properly (without yml) so contact us via issues to test this program.
+Due to security issues, application.yml which has vulnerable information of DB and SMTP is eliminated in this commit. However, you can test this by http://146.56.158.121:1998/swagger-ui.html#/ that runs on the server. If the url doesn't work, contact us via issues of this repo.
 
-# No More Rounding API Document
+
+# No More Rounding API Document http://146.56.158.121:1998/swagger-ui.html#/
 
 **version 1.0**
 
